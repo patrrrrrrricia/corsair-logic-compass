@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(135deg, #5e1c9c 0%, #d0aeec 100%);
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background: linear-gradient(135deg, #b75fff 0%, #ca7bfe 100%);
+    color: white;
+    border-radius: 10px 10px 0 0 !important;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #dc5495 0%, #ce26dc 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #b75fff 0%, #5e1c9c 100%);
+    transform: translateY(-2px);
+}
+
+h1 {
+    color: #ca7bfe;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+svg {
+    color: #5e1c9c;
+}
+.btn-warning {
+    background: linear-gradient(135deg, #b75fff 0%, #ce26dc 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #070707;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-warning:hover {
+    background: linear-gradient(135deg, #b75fff 0%, #ce26dc 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    color: #b75fff;
+}
