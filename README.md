@@ -61,3 +61,5 @@ The application will be available at: https://www.google.com/search?q=http://127
 ```
 
 © 2025 Glitter Geeks Coderun | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia) 
+
+
