@@ -31,4 +31,24 @@ The application follows a clean, layered Django structure:
 
 ---
 
+## Getting Started
+
+Follow these instructions to set up the environment and launch the Pirate's Compass locally:
+
+### 1. Environment Setup
+Clone the repository and create a virtual environment to keep dependencies isolated:
+
+```bash
+# Clone the repository
+git clone [https://github.com/patrrrrrrricia/corsair-logic-compass.git](https://github.com/patrrrrrrricia/corsair-logic-compass.git)
+cd corsair-logic-compass
+
+# Create and activate a virtual environment
+python -m venv venv
+
+# Activate the environment
+# On Windows: venv\Scripts\activate
+# On macOS/Linux: source venv/bin/activate
+```
+
 © 2025 Glitter Geeks Coderun | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia) 
