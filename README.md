@@ -31,17 +31,4 @@ The application follows a clean, layered Django structure:
 
 ---
 
-## 🛠️ Implementation Highlights
-
-### **Recursive Route Engine**
-The system uses a `while` loop to traverse the instruction chain backwards, gathering data for the final summary.
-
-```python
-# Logic from views.py for calculating route metrics
-while current:
-    instructions_in_route.append(current)
-    current = current.previous_instruction
-
-if instructions_in_route:
-    total_distance = sum(inst.distance for inst in instructions_in_route)
-    average_risk = sum(inst.risk_level for inst in instructions_in_route) / len(instructions_in_route)
+© 2026 Task Analytics Platform | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia)
