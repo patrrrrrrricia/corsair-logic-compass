@@ -35,9 +35,6 @@ The application follows a clean, layered Django structure:
 
 Follow these instructions to set up the environment and launch the Pirate's Compass locally:
 
-### 1. Environment Setup
-Clone the repository and create a virtual environment to keep dependencies isolated:
-
 ```bash
 # Clone the repository
 git clone [https://github.com/patrrrrrrricia/corsair-logic-compass.git](https://github.com/patrrrrrrricia/corsair-logic-compass.git)
