@@ -11,6 +11,12 @@ A sophisticated navigation and route-planning ecosystem designed for maritime ex
 * **Database:** Relational modeling with **OneToOne recursive relationships**
 * **Styling:** Custom glassmorphism effects and UI components
 
+![Python](https://img.shields.io/badge/python-3.10+-%23FF69B4.svg?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/django-5.2-%23FFB6C1.svg?style=for-the-badge&logo=django&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-%234F4F4F.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-%234F4F4F.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/Custom_CSS3-%234F4F4F.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Relational Modeling](https://img.shields.io/badge/Relational_Modeling-%23333333.svg?style=for-the-badge&logo=diagrams.net&logoColor=white) ![Glassmorphism](https://img.shields.io/badge/Glassmorphism_UI-%23333333.svg?style=for-the-badge&logo=glassdoor&logoColor=white)
+
 ---
 
 ## 🎀 Core Functionality
