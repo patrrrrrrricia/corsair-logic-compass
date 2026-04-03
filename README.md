@@ -52,6 +52,15 @@ python -m venv venv
 
 #Install the Django framework using the Python package manager:
 pip install django
+
+#Apply migrations to create the database structure
+python manage.py migrate
+
+#Start the local development engine
+python manage.py runserver
+
+The application will be available at: https://www.google.com/search?q=http://127.0.0.1:8000
+
 ```
 
 © 2025 Glitter Geeks Coderun | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia) 
