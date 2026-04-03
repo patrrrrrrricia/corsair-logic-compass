@@ -1,4 +1,4 @@
-# 🏴‍☠️ Pirate's Treasure Compass
+# Pirate's Treasure Compass
 
 ## 💻 Overview
 A sophisticated navigation and route-planning ecosystem designed for maritime exploration. Built with **Django 5.2**, this application allows users to orchestrate complex treasure hunts by linking nautical instructions into a recursive chain. Beyond simple data entry, the system features a **recursive route engine** that calculates cumulative distance and risk factors from any point in the journey.
