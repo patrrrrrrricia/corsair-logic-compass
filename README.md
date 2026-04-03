@@ -49,6 +49,9 @@ python -m venv venv
 # Activate the environment
 # On Windows: venv\Scripts\activate
 # On macOS/Linux: source venv/bin/activate
+
+#Install the Django framework using the Python package manager:
+pip install django
 ```
 
 © 2025 Glitter Geeks Coderun | Developed by [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://github.com/patrrrrrrricia) 
