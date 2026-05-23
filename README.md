@@ -37,35 +37,6 @@ The application follows a clean, layered Django structure:
 
 ---
 
-## Getting Started
-
-Follow these instructions to set up the environment and launch the Pirate's Compass locally:
-
-```bash
-# Clone the repository
-git clone [https://github.com/patrrrrrrricia/corsair-logic-compass.git](https://github.com/patrrrrrrricia/corsair-logic-compass.git)
-cd corsair-logic-compass
-
-# Create and activate a virtual environment
-python -m venv venv
-
-# Activate the environment
-# On Windows: venv\Scripts\activate
-# On macOS/Linux: source venv/bin/activate
-
-#Install the Django framework using the Python package manager:
-pip install django
-
-#Apply migrations to create the database structure
-python manage.py migrate
-
-#Start the local development engine
-python manage.py runserver
-
-The application will be available at: https://www.google.com/search?q=http://127.0.0.1:8000
-
-```
-
 © 2025 Glitter Geeks Coderun | Developed by [**𝐅𝐥𝐨𝐫𝐞𝐚𝐧 𝐄𝐦𝐢𝐥𝐢𝐚-𝐀𝐥𝐞𝐱𝐚𝐧𝐝𝐫𝐚**](https://github.com/Emily-f2510), [**𝐋𝐞𝐨𝐧𝐭𝐞 𝐏𝐚𝐭𝐫𝐢𝐜𝐢𝐚-𝐌𝐢𝐫𝐚𝐛𝐞𝐥𝐚**](https://patrrrrrrricia.github.io/glowing-button/), [**𝐋𝐮𝐩𝐚𝐧𝐜𝐮 𝐆𝐚𝐛𝐫𝐢𝐞𝐥𝐚-𝐕𝐚𝐥𝐞𝐧𝐭𝐢𝐧𝐚**](https://github.com/gabrielalupancu)
 
 
