@@ -1,11 +1,11 @@
 # Pirate's Treasure Compass
 
-## 💻 Overview
+## Overview
 A sophisticated navigation and route-planning ecosystem designed for maritime exploration. Built with **Django 5.2**, this application allows users to orchestrate complex treasure hunts by linking nautical instructions into a recursive chain. Beyond simple data entry, the system features a **recursive route engine** that calculates cumulative distance and risk factors from any point in the journey.
 
 ---
 
-## 🤍 Tech Stack
+## Tech Stack
 * **Backend:** Python 3.10+, **Django 5.2** (MVT Architecture)
 * **Frontend:** HTML5, **Bootstrap 5**, Custom CSS3 with purple gradients
 * **Database:** Relational modeling with **OneToOne recursive relationships**
@@ -19,7 +19,7 @@ A sophisticated navigation and route-planning ecosystem designed for maritime ex
 
 ---
 
-## 🎀 Core Functionality
+## Core Functionality
 * **Recursive Route Linking:** Every instruction can be connected to its predecessor using a `OneToOneField`, creating a unique, traceable path back to the starting point.
 * **Smart Route Analytics:** * **Cumulative Distance:** Automatically calculates the total nautical miles from the start to the current instruction.
     * **Risk Assessment:** Computes the average risk level (`0-100`) and provides safety warnings based on the route's difficulty.
@@ -28,7 +28,7 @@ A sophisticated navigation and route-planning ecosystem designed for maritime ex
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 The application follows a clean, layered Django structure:
 * **`models.py`**: Defines the `Instruction` entity with recursive linking and direction choices.
 * **`views.py`**: Contains the logic for route backtracking and statistical summaries.
