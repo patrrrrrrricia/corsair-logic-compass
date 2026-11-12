@@ -13,7 +13,9 @@ A sophisticated navigation and route-planning ecosystem designed for maritime ex
 
 ![Python](https://img.shields.io/badge/python-3.10+-ECCACB.svg?style=for-the-badge&logo=python&logoColor=3B3B3B) ![Django](https://img.shields.io/badge/django-5.2-ECCACB.svg?style=for-the-badge&logo=django&logoColor=3B3B3B)
 
-![HTML5](https://img.shields.io/badge/HTML5-3B3B3B.svg?style=for-the-badge&logo=html5&logoColor=FCFAFA) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-3B3B3B.svg?style=for-the-badge&logo=bootstrap&logoColor=FCFAFA) ![CSS3](
+![HTML5](https://img.shields.io/badge/HTML5-3B3B3B.svg?style=for-the-badge&logo=html5&logoColor=FCFAFA) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-3B3B3B.svg?style=for-the-badge&logo=bootstrap&logoColor=FCFAFA) ![CSS3](https://img.shields.io/badge/Custom_CSS3-3B3B3B.svg?style=for-the-badge&logo=css3&logoColor=FCFAFA)
+
+![Relational Modeling](https://img.shields.io/badge/Relational_Modeling-3B3B3B.svg?style=for-the-badge&logo=diagrams.net&logoColor=FCFAFA) ![Glassmorphism](https://img.shields.io/badge/Glassmorphism_UI-3B3B3B.svg?style=for-the-badge&logo=glassdoor&logoColor=FCFAFA)
 
 ---
 
